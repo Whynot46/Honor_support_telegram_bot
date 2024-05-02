@@ -1,8 +1,8 @@
 from aiogram import types
 
 
-BOT_TOKEN = '7042211706:AAGD8_2flZGeqOt1UgaKm_EbSwsY_0P0Skw'
-GROUP_ID = '-916045550'
+BOT_TOKEN = 'API_TOKEN'
+GROUP_ID = 'GROUP_ID'
 
 user_keyboard = types.ReplyKeyboardMarkup(keyboard=[[types.KeyboardButton(text="Оставить заявку")],
                                                     [types.KeyboardButton(text="Оставить отзыв")]],
